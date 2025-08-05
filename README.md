@@ -1,2 +1,2 @@
-# BoostME-Trabajos
-Github para entregar los trabajos del grupo de PDISC.
+# Trabajos de PDI
+Github para entregar los trabajos de PDI
